@@ -1,11 +1,11 @@
 {
-  "name": "node-shell",
+  "name": "node-atom-shell",
   "description": "Atom Shell bindings for nodeJS",
   "main": "./index.js",
   "author": {
-    "name": "Stanislas Polu",
-    "email": "polu.stanislas@gmail.com",
-    "url": "http://github.com/spolu"
+    "name": "Michael Hernandez",
+    "email": "michael.hernandez1988@gmail.com",
+    "url": "http://github.com/miketheprogrammer"
   },
   "version": "0.1.5",
   "dependencies": {
