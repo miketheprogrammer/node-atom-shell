@@ -7,7 +7,7 @@
     "email": "michael.hernandez1988@gmail.com",
     "url": "http://github.com/miketheprogrammer"
   },
-  "version": "0.1.6",
+  "version": "0.1.7",
   "dependencies": {
     "async": "0.7.x",
     "mkdirp": "0.3.x",
